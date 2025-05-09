@@ -1,0 +1,53 @@
+﻿# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio files
+*.vs/
+.vscode/
+*.code-workspace
+
+# ASP.NET Core specific
+appsettings.Development.json
+appsettings.Production.json
+*.log
+*.cache
+*.csproj.user
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Roslyn compiler
+*.ide/
+
+# Azure and other deployment-related files
+*.pubxml
+*.publishproj
+*.azurePipelines.yml
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
